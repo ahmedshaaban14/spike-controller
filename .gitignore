@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+build/
+dist/
+.venv/
+
+# Local editor settings, generated verification and secrets
+.vscode/
+verification/
+.env
+.env.*
+!.env.example
+*.log
+*.pem
+*.key

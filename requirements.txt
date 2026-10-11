@@ -1,0 +1,5 @@
+PySide6==6.12.0
+pygame==2.6.1
+pybricksdev==2.3.2
+bleak==3.0.2
+setuptools==80.9.0
